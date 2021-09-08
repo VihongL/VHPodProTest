@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "VHPodTest"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "A short description of VHPodTest."
 
   spec.description  = <<-DESC
@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/VihongL/VHPodProTest.git", :tag => "#{spec.version}" }
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+  spec.source_files  = "Classes/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
 end
