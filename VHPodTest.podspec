@@ -1,8 +1,9 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "VHPodTest"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.4"
   spec.summary      = "A short description of VHPodTest."
+  spec.platform     = :ios   
 
   spec.description  = <<-DESC
                    测试我的pod
