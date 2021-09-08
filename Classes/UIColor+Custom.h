@@ -6,7 +6,7 @@
 //  Copyright © 2018 LG. All rights reserved.
 //  1.0.2
 
-#import <UIKit/UIKit.h>
+//#import <UIKit/UIKit.h>
 
 @interface UIColor (Custom)
 
