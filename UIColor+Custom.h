@@ -4,7 +4,7 @@
 //
 //  Created by LG on 09/12/2018.
 //  Copyright © 2018 LG. All rights reserved.
-//
+//  1.0.2
 
 #import <UIKit/UIKit.h>
 
